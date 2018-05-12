@@ -1,0 +1,14 @@
+{
+  "id": "telegramDark",
+  "name": "Telegram (dark)",
+  "version": "1.0.5",
+  "description": "Telegram - Dark version",
+  "main": "index.js",
+  "author": "Nicholas Lazzerini <nickimola@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.telegram.org",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}

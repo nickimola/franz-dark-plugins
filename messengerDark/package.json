@@ -1,0 +1,13 @@
+{
+  "id": "messengerDark",
+  "name": "Messenger (dark)",
+  "version": "1.0.6",
+  "description": "Facebook Messenger - Dark version",
+  "main": "index.js",
+  "author": "Nicholas Lazzerini <nickimola@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://messenger.com",
+    "hasNotificationSound": true
+  }
+}

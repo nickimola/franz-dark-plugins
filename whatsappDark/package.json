@@ -1,0 +1,13 @@
+{
+  "id": "whatsappDark",
+  "name": "WhatsApp (Dark)",
+  "version": "1.0.4",
+  "description": "WhatsApp - Dark version",
+  "main": "index.js",
+  "author": "Nicholas Lazzerini <nickimola@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.whatsapp.com",
+    "hasNotificationSound": true
+  }
+}

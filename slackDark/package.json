@@ -1,0 +1,17 @@
+{
+  "id": "slackDark",
+  "name": "Slack (dark)",
+  "version": "1.0.8",
+  "description": "Slack Dark Version",
+  "main": "index.js",
+  "author": "Nicholas Lazzerini <nickimola@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamId}.slack.com",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "hasTeamId": true,
+    "urlInputSuffix": ".slack.com"
+  }
+}
